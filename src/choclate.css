@@ -1,0 +1,28 @@
+.StyleC{
+    width: 350px;
+    display: block;
+    margin: 20px;
+    border: 1px solid #dd6363;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #ccc;
+    transition: all 0.3s ease-in-out;
+    background-color: rgb(114, 195, 219);
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+   
+   }
+   .img{
+       width: 200px;
+       display: block;
+       margin: 0 auto;
+       border-radius: 100px;
+   
+   }
+   .topHeading{
+       display: block;
+   
+       text-align: center;
+   
+   }
+   
